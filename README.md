@@ -1,4 +1,4 @@
-# Data-Science-Internship-Project-1
+# Data-Science-Project-1
 Analyzing Amazon Sales Data
 
  Problem Statement:
